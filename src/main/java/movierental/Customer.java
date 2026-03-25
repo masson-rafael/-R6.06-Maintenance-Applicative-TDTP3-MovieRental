@@ -28,7 +28,7 @@ public class Customer {
         for (Rental each : _rentals) {
             double thisAmount = 0;
 
-            thisAmount = each.amountFor();
+            thisAmount = each.getCharge();
 
             // add frequent renter points
             frequentRenterPoints++;
