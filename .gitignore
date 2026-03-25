@@ -2,14 +2,27 @@
 *~
 *.swp
 
-# Intellij
+# IntelliJ
 .idea
 *.iml
+*.ipr
+*.iws
 
 # Eclipse
-.project
-.settings
-.classpath
+/.classpath
+/.settings/
+/.project
+/bin/
 
 # Maven
 target/
+
+# Gradle
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Misc
+*.log
