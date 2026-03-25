@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="movierental.CustomerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-03-25T11:11:26" hostname="FOLUX" time="0.164">
+<testsuite name="movierental.CustomerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-03-25T11:20:40" hostname="FOLUX" time="0.389">
   <properties/>
-  <testcase name="Jaws (0 jour(s))" classname="movierental.CustomerTest" time="0.132"/>
+  <testcase name="Jaws (0 jour(s))" classname="movierental.CustomerTest" time="0.319"/>
   <testcase name="Golden Eye (0 jour(s))" classname="movierental.CustomerTest" time="0.002"/>
-  <testcase name="Short New (1 jour(s))" classname="movierental.CustomerTest" time="0.002"/>
-  <testcase name="Long New (1 jour(s))" classname="movierental.CustomerTest" time="0.001"/>
+  <testcase name="Short New (1 jour(s))" classname="movierental.CustomerTest" time="0.004"/>
+  <testcase name="Long New (1 jour(s))" classname="movierental.CustomerTest" time="0.005"/>
   <testcase name="Bambi (2 jour(s))" classname="movierental.CustomerTest" time="0.001"/>
   <testcase name="Toy Story (2 jour(s))" classname="movierental.CustomerTest" time="0.002"/>
-  <testcase name="devrait_retourner_un_releve_vide_quand_aucune_location()" classname="movierental.CustomerTest" time="0.006"/>
-  <testcase name="devrait_generer_le_releve_complet_pour_un_panier_mixte()" classname="movierental.CustomerTest" time="0.001"/>
+  <testcase name="devrait_retourner_un_releve_vide_quand_aucune_location()" classname="movierental.CustomerTest" time="0.011"/>
+  <testcase name="devrait_generer_le_releve_complet_pour_un_panier_mixte()" classname="movierental.CustomerTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
